@@ -1,2 +1,2 @@
-def funcion():
-    print("Soy una función")
+def funcion(x):
+    print("Soy una función", x)
